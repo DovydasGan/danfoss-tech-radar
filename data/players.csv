@@ -1,0 +1,126 @@
+technology,list,rank,institution,papers,type,country_code
+CO2 Refrigeration,overall,1,Xi'an Jiaotong University,81,education,CN
+CO2 Refrigeration,overall,2,Norwegian University of Science and Technology,46,education,NO
+CO2 Refrigeration,overall,3,SINTEF Energy Research,20,facility,NO
+CO2 Refrigeration,overall,4,Zhengzhou University,19,education,CN
+CO2 Refrigeration,overall,5,Tianjin University,17,education,CN
+CO2 Refrigeration,overall,6,Universitat Jaume I,16,education,ES
+CO2 Refrigeration,overall,7,University of Shanghai for Science and Technology,16,education,CN
+CO2 Refrigeration,overall,8,Chinese Academy of Sciences,16,government,CN
+CO2 Refrigeration,overall,9,Tianjin University of Commerce,15,education,CN
+CO2 Refrigeration,overall,10,Harbin Institute of Technology,14,education,CN
+CO2 Refrigeration,overall,11,University of Southern Denmark,13,education,DK
+CO2 Refrigeration,overall,12,Peking University,13,education,CN
+CO2 Refrigeration,overall,13,Danfoss (Denmark),13,company,DK
+CO2 Refrigeration,overall,14,Technical Institute of Physics and Chemistry,12,facility,CN
+CO2 Refrigeration,overall,15,Shanghai Ocean University,12,education,CN
+CO2 Refrigeration,companies,1,Danfoss (Denmark),13,company,DK
+CO2 Refrigeration,companies,2,Électricité de France (France),4,company,FR
+CO2 Refrigeration,companies,3,Haier Group (China),3,company,CN
+CO2 Refrigeration,companies,4,Bechtel (United States),2,company,US
+CO2 Refrigeration,companies,5,Aibel (Norway),2,company,NO
+CO2 Refrigeration,companies,6,Hisense (China),2,company,CN
+CO2 Refrigeration,companies,7,Guangzhou Automobile Group (China),2,company,CN
+CO2 Refrigeration,companies,8,State Grid Corporation of China (China),1,company,CN
+CO2 Refrigeration,companies,9,Dongfang Electric Corporation (China),1,company,CN
+CO2 Refrigeration,companies,10,ZTE (China),1,company,CN
+Heat Pumps,overall,1,Xi'an Jiaotong University,299,education,CN
+Heat Pumps,overall,2,Tsinghua University,222,education,CN
+Heat Pumps,overall,3,Tianjin University,216,education,CN
+Heat Pumps,overall,4,Technical University of Denmark,210,education,DK
+Heat Pumps,overall,5,Shanghai Jiao Tong University,204,education,CN
+Heat Pumps,overall,6,Chinese Academy of Sciences,200,government,CN
+Heat Pumps,overall,7,Oak Ridge National Laboratory,190,facility,US
+Heat Pumps,overall,8,Southeast University,188,education,CN
+Heat Pumps,overall,9,Beijing University of Technology,167,education,CN
+Heat Pumps,overall,10,North China Electric Power University,166,education,CN
+Heat Pumps,overall,11,Toronto Metropolitan University,163,education,CA
+Heat Pumps,overall,12,Norwegian University of Science and Technology,155,education,NO
+Heat Pumps,overall,13,RWTH Aachen University,150,education,DE
+Heat Pumps,overall,14,Delft University of Technology,140,education,NL
+Heat Pumps,overall,15,National Laboratory of the Rockies,136,facility,US
+Heat Pumps,companies,1,State Grid Corporation of China (China),106,company,CN
+Heat Pumps,companies,2,Haier Group (China),29,company,CN
+Heat Pumps,companies,3,Midea Group (China),22,company,CN
+Heat Pumps,companies,4,Siemens (Germany),20,company,DE
+Heat Pumps,companies,5,Ricerca sul Sistema Energetico (Italy),18,company,IT
+Heat Pumps,companies,6,Gree (China),18,company,CN
+Heat Pumps,companies,7,China Three Gorges Corporation (China),17,company,CN
+Heat Pumps,companies,8,State Grid Zhejiang Electric Power Company (China),17,company,CN
+Heat Pumps,companies,9,Électricité de France (France),15,company,FR
+Heat Pumps,companies,10,Sinopec (China),14,company,CN
+SiC Power Electronics,overall,1,University of Arkansas at Fayetteville,114,education,US
+SiC Power Electronics,overall,2,Chongqing University,79,education,CN
+SiC Power Electronics,overall,3,Xi'an Jiaotong University,75,education,CN
+SiC Power Electronics,overall,4,Zhejiang University,72,education,CN
+SiC Power Electronics,overall,5,Virginia Tech,70,education,US
+SiC Power Electronics,overall,6,Huazhong University of Science and Technology,67,education,CN
+SiC Power Electronics,overall,7,Chinese Academy of Sciences,65,government,CN
+SiC Power Electronics,overall,8,University of Electronic Science and Technology of China,48,education,CN
+SiC Power Electronics,overall,9,Aalborg University,48,education,DK
+SiC Power Electronics,overall,10,State Grid Corporation of China (China),47,company,CN
+SiC Power Electronics,overall,11,Harbin Institute of Technology,40,education,CN
+SiC Power Electronics,overall,12,University of Warwick,39,education,GB
+SiC Power Electronics,overall,13,Fudan University,38,education,CN
+SiC Power Electronics,overall,14,Tsinghua University,37,education,CN
+SiC Power Electronics,overall,15,State Key Laboratory of Electrical Insulation and Power Equipment,35,facility,
+SiC Power Electronics,companies,1,State Grid Corporation of China (China),47,company,CN
+SiC Power Electronics,companies,2,STMicroelectronics (Italy),32,company,IT
+SiC Power Electronics,companies,3,Infineon Technologies (Germany),21,company,DE
+SiC Power Electronics,companies,4,Guangdong Power Grid Company (China),20,company,CN
+SiC Power Electronics,companies,5,"Wolfspeed, Inc. (United States)",17,company,US
+SiC Power Electronics,companies,6,China Southern Power Grid (China),16,company,CN
+SiC Power Electronics,companies,7,Infineon Technologies (Austria),15,company,AT
+SiC Power Electronics,companies,8,Robert Bosch (Germany),12,company,DE
+SiC Power Electronics,companies,9,Eaton (United States),10,company,US
+SiC Power Electronics,companies,10,Hitachi (Japan),10,company,JP
+Data Centre Liquid Cooling,overall,1,Intel (United States),47,company,US
+Data Centre Liquid Cooling,overall,2,The University of Texas at Arlington,40,education,US
+Data Centre Liquid Cooling,overall,3,Nvidia (United States),38,company,US
+Data Centre Liquid Cooling,overall,4,Binghamton University,20,education,US
+Data Centre Liquid Cooling,overall,5,Tianjin University of Commerce,18,education,CN
+Data Centre Liquid Cooling,overall,6,South China University of Technology,12,education,CN
+Data Centre Liquid Cooling,overall,7,Xi'an Jiaotong University,11,education,CN
+Data Centre Liquid Cooling,overall,8,Chinese Academy of Sciences,10,government,CN
+Data Centre Liquid Cooling,overall,9,Southeast University,10,education,CN
+Data Centre Liquid Cooling,overall,10,Tianjin University,9,education,CN
+Data Centre Liquid Cooling,overall,11,Université de Reims Champagne-Ardenne,8,education,FR
+Data Centre Liquid Cooling,overall,12,Tongji University,7,education,CN
+Data Centre Liquid Cooling,overall,13,Oak Ridge National Laboratory,7,facility,US
+Data Centre Liquid Cooling,overall,14,University of Chinese Academy of Sciences,7,education,CN
+Data Centre Liquid Cooling,overall,15,Huazhong University of Science and Technology,7,education,CN
+Data Centre Liquid Cooling,companies,1,Intel (United States),47,company,US
+Data Centre Liquid Cooling,companies,2,Nvidia (United States),38,company,US
+Data Centre Liquid Cooling,companies,3,Microsoft (United States),6,company,US
+Data Centre Liquid Cooling,companies,4,ByteDance (China),6,company,CN
+Data Centre Liquid Cooling,companies,5,ZTE (China),5,company,CN
+Data Centre Liquid Cooling,companies,6,Hewlett Packard Enterprise (United States),5,company,US
+Data Centre Liquid Cooling,companies,7,Chemours (United States),5,company,
+Data Centre Liquid Cooling,companies,8,Alibaba Group (China),5,company,CN
+Data Centre Liquid Cooling,companies,9,IBM (United States),4,company,US
+Data Centre Liquid Cooling,companies,10,China Three Gorges Corporation (China),4,company,CN
+Electrified Hydraulics,overall,1,Zhejiang University,14,education,CN
+Electrified Hydraulics,overall,2,Beihang University,13,education,CN
+Electrified Hydraulics,overall,3,Politecnico di Torino,12,education,IT
+Electrified Hydraulics,overall,4,State Key Laboratory Fluid Power and Mechatronic Systems,12,facility,CN
+Electrified Hydraulics,overall,5,Purdue University West Lafayette,10,education,US
+Electrified Hydraulics,overall,6,Universiti Teknikal Malaysia Melaka,10,education,MY
+Electrified Hydraulics,overall,7,University of Ulsan,10,education,KR
+Electrified Hydraulics,overall,8,Nanjing University of Science and Technology,9,education,CN
+Electrified Hydraulics,overall,9,University of Technology Malaysia,8,education,MY
+Electrified Hydraulics,overall,10,Northwestern Polytechnical University,7,education,CN
+Electrified Hydraulics,overall,11,Yanshan University,7,education,CN
+Electrified Hydraulics,overall,12,Universitas Muhammadiyah Malang,5,education,ID
+Electrified Hydraulics,overall,13,University of Bologna,5,education,IT
+Electrified Hydraulics,overall,14,McMaster University,5,education,CA
+Electrified Hydraulics,overall,15,Linköping University,4,education,SE
+Electrified Hydraulics,companies,1,Robert Bosch (United States),4,company,US
+Electrified Hydraulics,companies,2,China North Industries Group Corporation (China),2,company,CN
+Electrified Hydraulics,companies,3,Aster,2,company,IT
+Electrified Hydraulics,companies,4,Beijing Institute of Power Machinery (China),2,company,CN
+Electrified Hydraulics,companies,5,Xuzhou Construction Machinery Group (China),2,company,CN
+Electrified Hydraulics,companies,6,Collins Aerospace (United States),2,company,US
+Electrified Hydraulics,companies,7,Aviation Industry Corporation of China (China),1,company,CN
+Electrified Hydraulics,companies,8,General Electric (United States),1,company,US
+Electrified Hydraulics,companies,9,Samsung (South Korea),1,company,KR
+Electrified Hydraulics,companies,10,China Electronics Technology Group Corporation,1,company,CN

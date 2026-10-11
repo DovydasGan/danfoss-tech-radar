@@ -1,0 +1,101 @@
+technology,country,country_code,papers
+CO2 Refrigeration,China,CN,317
+CO2 Refrigeration,Norway,NO,51
+CO2 Refrigeration,India,IN,41
+CO2 Refrigeration,Italy,IT,41
+CO2 Refrigeration,Spain,ES,36
+CO2 Refrigeration,United States,US,29
+CO2 Refrigeration,Denmark,DK,25
+CO2 Refrigeration,Turkey,TR,24
+CO2 Refrigeration,United Kingdom,GB,23
+CO2 Refrigeration,Australia,AU,18
+CO2 Refrigeration,Poland,PL,18
+CO2 Refrigeration,Iran,IR,17
+CO2 Refrigeration,Japan,JP,17
+CO2 Refrigeration,South Korea,KR,16
+CO2 Refrigeration,France,FR,14
+CO2 Refrigeration,Germany,DE,13
+CO2 Refrigeration,Canada,CA,10
+CO2 Refrigeration,Greece,GR,10
+CO2 Refrigeration,Saudi Arabia,SA,9
+CO2 Refrigeration,Brazil,BR,8
+Heat Pumps,China,CN,4806
+Heat Pumps,United States,US,1353
+Heat Pumps,Germany,DE,1135
+Heat Pumps,United Kingdom,GB,944
+Heat Pumps,Italy,IT,944
+Heat Pumps,Canada,CA,574
+Heat Pumps,Spain,ES,479
+Heat Pumps,South Korea,KR,468
+Heat Pumps,Japan,JP,432
+Heat Pumps,Denmark,DK,363
+Heat Pumps,France,FR,335
+Heat Pumps,India,IN,321
+Heat Pumps,Switzerland,CH,315
+Heat Pumps,Poland,PL,309
+Heat Pumps,Turkey,TR,298
+Heat Pumps,Netherlands,NL,283
+Heat Pumps,Sweden,SE,277
+Heat Pumps,Ukraine,UA,273
+Heat Pumps,Iran,IR,256
+Heat Pumps,Russia,RU,248
+SiC Power Electronics,China,CN,996
+SiC Power Electronics,United States,US,561
+SiC Power Electronics,India,IN,188
+SiC Power Electronics,Germany,DE,158
+SiC Power Electronics,Japan,JP,158
+SiC Power Electronics,United Kingdom,GB,157
+SiC Power Electronics,Italy,IT,120
+SiC Power Electronics,France,FR,64
+SiC Power Electronics,Denmark,DK,63
+SiC Power Electronics,South Korea,KR,60
+SiC Power Electronics,Taiwan,TW,52
+SiC Power Electronics,Spain,ES,50
+SiC Power Electronics,Canada,CA,45
+SiC Power Electronics,Netherlands,NL,42
+SiC Power Electronics,Sweden,SE,40
+SiC Power Electronics,Austria,AT,37
+SiC Power Electronics,Switzerland,CH,37
+SiC Power Electronics,Norway,NO,30
+SiC Power Electronics,Brazil,BR,25
+SiC Power Electronics,Singapore,SG,25
+Data Centre Liquid Cooling,United States,US,177
+Data Centre Liquid Cooling,China,CN,172
+Data Centre Liquid Cooling,United Kingdom,GB,21
+Data Centre Liquid Cooling,India,IN,20
+Data Centre Liquid Cooling,Taiwan,TW,17
+Data Centre Liquid Cooling,Finland,FI,12
+Data Centre Liquid Cooling,Japan,JP,10
+Data Centre Liquid Cooling,South Korea,KR,10
+Data Centre Liquid Cooling,France,FR,9
+Data Centre Liquid Cooling,Hong Kong,HK,8
+Data Centre Liquid Cooling,Germany,DE,7
+Data Centre Liquid Cooling,Ireland,IE,6
+Data Centre Liquid Cooling,Sweden,SE,6
+Data Centre Liquid Cooling,Indonesia,ID,5
+Data Centre Liquid Cooling,Singapore,SG,5
+Data Centre Liquid Cooling,Turkey,TR,5
+Data Centre Liquid Cooling,Egypt,EG,4
+Data Centre Liquid Cooling,Spain,ES,4
+Data Centre Liquid Cooling,Switzerland,CH,3
+Data Centre Liquid Cooling,Denmark,DK,3
+Electrified Hydraulics,China,CN,92
+Electrified Hydraulics,United States,US,23
+Electrified Hydraulics,Italy,IT,22
+Electrified Hydraulics,South Korea,KR,16
+Electrified Hydraulics,Canada,CA,13
+Electrified Hydraulics,Malaysia,MY,13
+Electrified Hydraulics,Germany,DE,11
+Electrified Hydraulics,India,IN,11
+Electrified Hydraulics,Vietnam,VN,10
+Electrified Hydraulics,United Kingdom,GB,6
+Electrified Hydraulics,Indonesia,ID,5
+Electrified Hydraulics,United Arab Emirates,AE,4
+Electrified Hydraulics,Iraq,IQ,4
+Electrified Hydraulics,Russia,RU,4
+Electrified Hydraulics,Sweden,SE,4
+Electrified Hydraulics,Australia,AU,3
+Electrified Hydraulics,Taiwan,TW,3
+Electrified Hydraulics,Ukraine,UA,3
+Electrified Hydraulics,Brazil,BR,2
+Electrified Hydraulics,Denmark,DK,2

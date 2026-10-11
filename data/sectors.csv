@@ -1,0 +1,42 @@
+technology,sector,papers
+CO2 Refrigeration,education,663
+CO2 Refrigeration,facility,91
+CO2 Refrigeration,company,50
+CO2 Refrigeration,government,38
+CO2 Refrigeration,nonprofit,12
+CO2 Refrigeration,other,8
+CO2 Refrigeration,archive,1
+CO2 Refrigeration,healthcare,1
+Heat Pumps,education,13570
+Heat Pumps,facility,2576
+Heat Pumps,company,1086
+Heat Pumps,government,1060
+Heat Pumps,nonprofit,396
+Heat Pumps,other,203
+Heat Pumps,healthcare,24
+Heat Pumps,funder,17
+Heat Pumps,archive,10
+SiC Power Electronics,education,2533
+SiC Power Electronics,company,534
+SiC Power Electronics,facility,482
+SiC Power Electronics,government,184
+SiC Power Electronics,nonprofit,54
+SiC Power Electronics,other,25
+SiC Power Electronics,archive,3
+SiC Power Electronics,healthcare,3
+SiC Power Electronics,funder,2
+Data Centre Liquid Cooling,education,347
+Data Centre Liquid Cooling,company,163
+Data Centre Liquid Cooling,facility,52
+Data Centre Liquid Cooling,government,16
+Data Centre Liquid Cooling,nonprofit,2
+Data Centre Liquid Cooling,archive,1
+Data Centre Liquid Cooling,healthcare,1
+Data Centre Liquid Cooling,other,1
+Electrified Hydraulics,education,224
+Electrified Hydraulics,facility,32
+Electrified Hydraulics,company,25
+Electrified Hydraulics,government,9
+Electrified Hydraulics,archive,1
+Electrified Hydraulics,nonprofit,1
+Electrified Hydraulics,other,1
